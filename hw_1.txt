@@ -1,0 +1,19 @@
+Linux: 
+Covered Topic: Introduction of Linux
+Why matter: Linux is a powerful operating systemand is able to run on a variaty of haedwares
+
+AWS
+Covered Topic: Create AWS account and launch AWS EC2 on laptop
+Why matter: It gives us computational power to do heavy computations  that we may not be able to perform on our own computer
+
+Git
+Covered Topic:Create repository, put in content, add to github
+Why matter: We can track the changes and it allows many people to work in parallel
+
+Shell
+Covered Topic: Introduced shell script 
+Why Matter: It takes in commands from users inputs. It display a prompt, read a command, process the given command, then execute the command
+
+Vim
+Covered Topic: How to create and write text using vim
+Why matter: We use it to create text files and push into github  
